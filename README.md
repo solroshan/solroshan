@@ -1,7 +1,7 @@
 <strong>Hello, world! 🖖 </strong>
-[<img align="right" alt="GithubPage | GithubPage" width="22px" src="https://deanattali.com/assets/img/blog/multiplegithubpages/githubpages.png" />][githubpage]
-[<img align="right" alt="Linkedin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="right" alt="Gunes | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="right" alt="Gunes | Instagram" width="22px" src="https://user-images.githubusercontent.com/75987087/147849512-539a1da2-8eea-4e74-88c0-f4cdd3d5a83e.png" />][instagram]
+[<img align="right" alt="Linkedin | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75987087/147849505-559876f5-bad9-4eba-8895-8a5a8ba91e47.png" />][linkedin]
+[<img align="right" alt="GithubPage | GithubPage" width="22px" src="https://user-images.githubusercontent.com/75987087/147849492-e0649353-5bc8-4842-9958-b073091f29c4.png" />][githubpage]
 <br>
 <sup>This is HUSEYIN-GUNES</sup>
 <br>
@@ -37,12 +37,12 @@
 <br>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Flask" width="30px" src="https://www.manualweb.net/img/logos/flask.png" />
+<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/75987087/147849526-bddb092f-55ce-435e-9a77-0cb6e6afa8c7.png" />
 <img align="left" alt="AWS" width="34px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" />
 <br>
 <br>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/75987087/147849526-bddb092f-55ce-435e-9a77-0cb6e6afa8c7.png" />
 <br>
 <br>
 <br>
