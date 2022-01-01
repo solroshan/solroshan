@@ -42,7 +42,7 @@
 <br>
 <br>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/75987087/147849526-bddb092f-55ce-435e-9a77-0cb6e6afa8c7.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/75987087/147849588-28c28192-f853-46af-b5b5-a55d28fc6bf4.png" />
 <br>
 <br>
 <br>
