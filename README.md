@@ -1,7 +1,7 @@
 <strong>Hello, world! 🖖 </strong>
-[<img align="right" alt="Gunes | Instagram" width="22px" src="https://user-images.githubusercontent.com/75987087/147849512-539a1da2-8eea-4e74-88c0-f4cdd3d5a83e.png" />][instagram]
-[<img align="right" alt="Linkedin | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75987087/147849505-559876f5-bad9-4eba-8895-8a5a8ba91e47.png" />][linkedin]
-[<img align="right" alt="GithubPage | GithubPage" width="22px" src="https://user-images.githubusercontent.com/75987087/147849492-e0649353-5bc8-4842-9958-b073091f29c4.png" />][githubpage]
+[<img align="right" alt="Gunes | Instagram" width="28px" src="https://user-images.githubusercontent.com/75987087/147849512-539a1da2-8eea-4e74-88c0-f4cdd3d5a83e.png" />][instagram]
+[<img align="right" alt="Linkedin | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/75987087/147849505-559876f5-bad9-4eba-8895-8a5a8ba91e47.png" />][linkedin]
+[<img align="right" alt="GithubPage | GithubPage" width="28px" src="https://user-images.githubusercontent.com/75987087/147849492-e0649353-5bc8-4842-9958-b073091f29c4.png" />][githubpage]
 <br>
 <sup>This is HUSEYIN-GUNES</sup>
 <br>
