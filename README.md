@@ -49,6 +49,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=solroshan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="justify" alt="TOP-LANGS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solroshan&langs_count=8&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" />
 <br>
+<br>
 <img align="justify" alt="GITHUB-STATS" src="https://github-readme-stats.vercel.app/api?username=solroshan&count_private=true&show_icons=true&theme=gotham&hide_border=true" />
 
 [instagram]: https://www.instagram.com/guneshseyn/
