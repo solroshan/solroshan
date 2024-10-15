@@ -5,7 +5,7 @@
 <br>
 <sup>This is HUSEYIN-GUNES</sup>
 <br>
-💉<strong>Biomedical Engineer</strong>
+💉<strong>Biomedical Technologist</strong>
 <br>
 ⚡<strong>Electrical Technician</strong>
 <br>
