@@ -51,6 +51,6 @@
 <br>
 <img align="justify" alt="GITHUB-STATS" src="https://github-readme-stats.vercel.app/api?username=solroshan&count_private=true&show_icons=true&theme=gotham&hide_border=true" />
 
-[instagram]: https://www.instagram.com/guneshseyn/
+[instagram]: https://www.instagram.com/imgunesh/
 [linkedin]:  https://www.linkedin.com/in/huseyin-gunes35/
 [githubpage]: https://solroshan.github.io/
