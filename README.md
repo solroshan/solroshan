@@ -9,7 +9,6 @@
 <br>
 ⚡<strong>Electrical Technician</strong>
 <br>
-<br>
 🚑<strong>National Medical Rescue Team UMKE Member<strong>
 <br>
 🧗‍♂️<strong>Rock Climber</strong>
