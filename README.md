@@ -5,9 +5,12 @@
 <br>
 <sup>This is HUSEYIN-GUNES</sup>
 <br>
-💉<strong>Biomedical Technologist</strong>
+💉<strong>Clinical Engineering Unit Supervisor</strong>
 <br>
 ⚡<strong>Electrical Technician</strong>
+<br>
+<br>
+🚑<strong>National Medical Rescue Team UMKE Member<strong>
 <br>
 🧗‍♂️<strong>Rock Climber</strong>
 <br>
