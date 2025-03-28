@@ -5,7 +5,7 @@
 <br>
 <sup>This is HUSEYIN-GUNES</sup>
 <br>
-💉<strong>Clinical Engineering Unit Supervisor</strong>
+🏥<strong>Clinical Engineering Unit Supervisor</strong>
 <br>
 ⚡<strong>Electrical Technician</strong>
 <br>
